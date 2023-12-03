@@ -10,6 +10,6 @@ describe('file', () => {
     const hash = await file.calcSha256Hash(filePath);
 
     expect(hash)
-      .toBe('dde2795c8ca938731339131371f149c6cef2a2ac989931022d6c842a1654a669');
+      .toBe('c04efa4b2c86a487c2bceeb7a89f3a6bcdd2e0b1f907831e598cbede4e67f676');
   });
 });

@@ -1,6 +1,6 @@
 {
   "name": "electron-simple-updater",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "Simple way to enable update for the electron application",
   "main": "src/index.js",
   "scripts": {
@@ -47,7 +47,7 @@
     "typescript": "^4.8.2"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "semver": "^7.3.7"
+    "axios": "^1.6.2",
+    "semver": "^7.5.4"
   }
 }
